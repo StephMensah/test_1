@@ -1,0 +1,2 @@
+Name :Sam new
+reg:12345
